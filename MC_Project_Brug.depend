@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1664968430 source:c:\users\rensh\documents\haagse jaar 1\block 1\project mechatronica\mc_project_brug\fuse.c
+	<avr/io.h>
+
+1665498839 source:c:\users\rensh\documents\haagse jaar 1\block 1\project mechatronica\mc_project_brug\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1663859697 c:\users\rensh\documents\haagse jaar 1\block 1\project mechatronica\mc_project_brug\servo.h
+
+1665770640 source:c:\users\rensh\documents\haagse jaar 1\block 1\project mechatronica\mc_project_brug\main.c
+	<util/delay.h>
+	<avr/io.h>
+	"servo.h"
+	"h_bridge.h"
+
+1663859690 source:c:\users\rensh\documents\haagse jaar 1\block 1\project mechatronica\mc_project_brug\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1665652470 c:\users\rensh\documents\haagse jaar 1\block 1\project mechatronica\mc_project_brug\h_bridge.h
+
